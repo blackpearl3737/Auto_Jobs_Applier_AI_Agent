@@ -1,130 +1,83 @@
 personal_information:
-  name: "[Your Name]"
-  surname: "[Your Surname]"
-  date_of_birth: "[Your Date of Birth]"
-  country: "[Your Country]"
-  city: "[Your City]"
-  address: "[Your Address]"
-  zip_code: "[Your zip code]"
-  phone_prefix: "[Your Phone Prefix]"
-  phone: "[Your Phone Number]"
-  email: "[Your Email Address]"
-  github: "[Your GitHub Profile URL]"
-  linkedin: "[Your LinkedIn Profile URL]"
+  name: "[Brandon Williams]"
+  date_of_birth: "[06/14/1995]"
+  country: "[United States]"
+  city: "[Caledonia]"
+  address: "[861 Buck Egger rd.]"
+  zip_code: "[39740]"
+  phone_prefix: "[1]"
+  phone: "[662-251-5851]"
+  email: "[brandon.conley.williams@gmail.com]"
+  linkedin: "[https://www.linkedin.com/in/brandon-williams-9487051ba/]"
+  github: "https://github.com/blackpearl3737"
 
 education_details:
-  - education_level: "[Your Education Level]"
-    institution: "[Your Institution]"
-    field_of_study: "[Your Field of Study]"
-    final_evaluation_grade: "[Your Final Evaluation Grade]"
-    start_date: "[Start Date]"
-    year_of_completion: "[Year of Completion]"
-    exam:
-      exam_name_1: "[Grade]"
-      exam_name_2: "[Grade]"
-      exam_name_3: "[Grade]"
-      exam_name_4: "[Grade]"
-      exam_name_5: "[Grade]"
-      exam_name_6: "[Grade]"
+  - education_level: "[Bachelors Degree]"
+    institution: "[Mississippi State University]"
+    field_of_study: "[Business Administration]"
+    start_date: "[08-2013]"
+    year_of_completion: "[2017]"
+
+  - education_level: "[Diploma]"
+    institution: "[New Hope]"
+    start_date: "[2009]"
+    year_of_completion: "[2013]"
+
 
 experience_details:
-  - position: "[Your Position]"
-    company: "[Company Name]"
-    employment_period: "[Employment Period]"
-    location: "[Location]"
-    industry: "[Industry]"
+  - position: "[Support]"
+    company: "[Metronet]"
+    employment_period: "[September 2024 - Present]"
+    location: "[Remote]"
+    industry: "[Telecommunications]"
     key_responsibilities:
-      - responsibility_1: "[Responsibility Description]"
-      - responsibility_2: "[Responsibility Description]"
-      - responsibility_3: "[Responsibility Description]"
-    skills_acquired:
-      - "[Skill]"
-      - "[Skill]"
-      - "[Skill]"
+      - responsibility_1: "[Focused on reducing churn]"
+      - responsibility_2: "[Provided advanced support to help troubleshoot and solve technical issues]"
 
-  - position: "[Your Position]"
-    company: "[Company Name]"
-    employment_period: "[Employment Period]"
-    location: "[Location]"
-    industry: "[Industry]"
+  - position: "[Carrier Sales]"
+    company: "[Momentum Telecom]"
+    employment_period: "[September 2022 - July 2024]"
+    location: "[Remote]"
+    industry: "[Telecommunications]"
     key_responsibilities:
-      - responsibility_1: "[Responsibility Description]"
-      - responsibility_2: "[Responsibility Description]"
-      - responsibility_3: "[Responsibility Description]"
-    skills_acquired:
-      - "[Skill]"
-      - "[Skill]"
-      - "[Skill]"
-
-projects:
-  - name: "[Project Name]"
-    description: "[Project Description]"
-    link: "[Project Link]"
-
-  - name: "[Project Name]"
-    description: "[Project Description]"
-    link: "[Project Link]"
-
-achievements:
-  - name: "[Achievement Name]"
-    description: "[Achievement Description]"
-  - name: "[Achievement Name]"
-    description: "[Achievement Description]"
-
-certifications:
-  - name: "[Certification Name]"
-    description: "[Certification Description]"
-  - name: "[Certification Name]"
-    description: "[Certification Description]"
+      - responsibility_1: "[Handled domestic and international sales cycles from cradle to grave]"
+      - responsibility_2: "[Worked with internal stake holders to ensure technical compatibility and win deals]"
+      - responsibility_3: "[Set up recurring deals and monthly meetings with top level clients in global data aggregators]"
+ - position: "[Broker]"
+    company: "[KTB Global]"
+    employment_period: "[May 2019 - May 2022]"
+    location: "[Remote]"
+    industry: "[Logistics]"
+    key_responsibilities:
+      - responsibility_1: "[Learned essential outbound sales skills]"
+      - responsibility_2: "[Established book of business within assigned territory]"
+      - responsibility_3: "[Gained mastery with various CRM's and always performed at or above quota]"
 
 languages:
-  - language: "[Language]"
-    proficiency: "[Proficiency Level]"
-  - language: "[Language]"
-    proficiency: "[Proficiency Level]"
-
-interests:
-  - "[Interest]"
-  - "[Interest]"
-  - "[Interest]"
-
-availability:
-  notice_period: "[Notice Period]"
+  - language: "[English]"
+    proficiency: "[Native]"
 
 salary_expectations:
-  salary_range_usd: "[Salary Range]"
+  salary_range_usd: "40000 - 70000"   
 
 self_identification:
-  gender: "[Gender]"
-  pronouns: "[Pronouns]"
-  veteran: "[Yes/No]"
-  disability: "[Yes/No]"
-  ethnicity: "[Ethnicity]"
+  gender: "[Male]"
+  pronouns: "[He/Him]"
+  veteran: "[No]"
+  disability: "[No]"
+  ethnicity: "[White]"
 
 
 legal_authorization:
-  eu_work_authorization: "[Yes/No]"
-  us_work_authorization: "[Yes/No]"
-  requires_us_visa: "[Yes/No]"
-  requires_us_sponsorship: "[Yes/No]"
-  requires_eu_visa: "[Yes/No]"
-  legally_allowed_to_work_in_eu: "[Yes/No]"
-  legally_allowed_to_work_in_us: "[Yes/No]"
-  requires_eu_sponsorship: "[Yes/No]"
-  canada_work_authorization: "[Yes/No]"
-  requires_canada_visa: "[Yes/No]"
-  legally_allowed_to_work_in_canada: "[Yes/No]"
-  requires_canada_sponsorship: "[Yes/No]"
-  uk_work_authorization: "[Yes/No]"
-  requires_uk_visa: "[Yes/No]"
-  legally_allowed_to_work_in_uk: "[Yes/No]"
-  requires_uk_sponsorship: "[Yes/No]"
-
+  us_work_authorization: "[Yes]"
+  requires_us_visa: "[No]"
+  requires_us_sponsorship: "[No]"
+  legally_allowed_to_work_in_us: "[Yes]
 
 work_preferences:
-  remote_work: "[Yes/No]"
-  in_person_work: "[Yes/No]"
-  open_to_relocation: "[Yes/No]"
-  willing_to_complete_assessments: "[Yes/No]"
-  willing_to_undergo_drug_tests: "[Yes/No]"
-  willing_to_undergo_background_checks: "[Yes/No]"
+  remote_work: "[Yes]"
+  in_person_work: "[No]"
+  open_to_relocation: "[No]"
+  willing_to_complete_assessments: "[Yes]"
+  willing_to_undergo_drug_tests: "[Yes]"
+  willing_to_undergo_background_checks: "[Yes]"
